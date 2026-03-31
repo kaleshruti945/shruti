@@ -1,2 +1,3 @@
 # shruti
-my first repository
+my first repository. 
+    author - Shruti Kale
