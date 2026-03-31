@@ -1,0 +1,2 @@
+# shruti
+my first repository
